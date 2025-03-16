@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105013039363",
+    "project_id": "blablaprecio",
+    "storage_bucket": "blablaprecio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105013039363:android:df5c4ba1f35d2da3375936",
+        "android_client_info": {
+          "package_name": "com.blablaprecio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsF_Ooyxsh8wSp2Q05jm9sm-LtHl8BJwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
